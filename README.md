@@ -1,3 +1,9 @@
+READ ME!!
+
+Created by:
+Belicina, Andrei Lester from BSCPE 1-1
+
+
 PARTY AMENITIES INVENTORY SYSTEM
 
 This program let the user input "beginning", "consumed", and "ending inventory", in order to determine the "should be" (supposed to be remaing stock) and the "variance" of the stocks with specific themes.

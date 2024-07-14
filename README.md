@@ -1,7 +1,6 @@
 READ ME!!
 
-Created by:
-Belicina, Andrei Lester from BSCPE 1-1
+Created by:    Belicina, Andrei Lester from BSCPE 1-1
 
 
 PARTY AMENITIES INVENTORY SYSTEM

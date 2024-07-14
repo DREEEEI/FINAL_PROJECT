@@ -9,6 +9,7 @@ This program let the user input "beginning", "consumed", and "ending inventory",
 
 At the end of the program, it will ask the user what function they want to execute. They can choose whether view the summery of report, or check notifications to view the "most consumed stock", "least consumed stock", "highest remaining stock", and "lowest remaining stock".
 
+
 [ALLBeginningInventory.cs] - this class consist of the codes (methods) where it will ask the user to input (int variable) all the beginning inventory for specific theme.
 
 [ALLConsumed.cs] -  this class consist of the codes (methods) where it will ask the user to input (int variable) all the consumed stocks for specific theme.

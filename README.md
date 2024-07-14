@@ -28,6 +28,6 @@ NOTE: All the value of int in these classes will be returned in another class [R
 
 (while loop) - these set of codes creates infinite loop so the user can choose and execute functions in the (switch, case) multiple times.
 
-[Trade.Mark.cs] - this class just consist of my trademark to determine who created the program.
+[Trade.cs] - this class just consist of my trademark to determine who created the program.
 
 [Program.cs] - this class just calls out the "ReturnedValue.AllInventory();" to execute all the functions of this program.

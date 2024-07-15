@@ -901,7 +901,7 @@ namespace FINAL_PROJECT
         // HIGHEST REMAINING STOCKS FOR PARTY HATS
         public static void HighestRemainingHats(int EHWmats, int EHPmats, int ECCmats, int EMDhats, int ELPhats)
         {
-            Console.Write("THE MOST CONSUMED STOCK FOR PARTY HATS IS ");
+            Console.Write("THE HIGHEST REMAINING STOCKS FOR PARTY HATS IS ");
 
             int highest = EHWmats;
             List<string> messages = new List<string> { "HOTWHEELS" };
@@ -955,7 +955,7 @@ namespace FINAL_PROJECT
         // HIGHEST REMAINING STOCKS FOR PARTY TRAYMATSATS
         public static void HighestRemainingMats(int EHWmats, int EHPmats, int ECCmats, int EMDmats, int ELPmats)
         {
-            Console.Write("THE MOST CONSUMED STOCK FOR PARTY TRAYMATS IS ");
+            Console.Write("THE HIGHEST REMAINING STOCKS FOR PARTY TRAYMATS IS ");
 
             int highest = EHWmats;
             List<string> messages = new List<string> { "HOTWHEELS" };
@@ -1009,7 +1009,7 @@ namespace FINAL_PROJECT
         // HIGHEST REMAINING STOCKS FOR GAMEPRIZES
         public static void HighestRemainingPrizes(int EHWprize, int EHPprize, int ECCprize, int EMDprize, int ELPprize)
         {
-            Console.Write("THE MOST CONSUMED STOCK FOR GAME PRIZES IS ");
+            Console.Write("THE HIGHEST REMAINING STOCKS FOR GAME PRIZES IS ");
 
             int highest = EHWprize;
             List<string> messages = new List<string> { "HOTWHEELS" };
@@ -1063,7 +1063,7 @@ namespace FINAL_PROJECT
         // HIGHEST REMAINING STOCKS FOR GIVEAWAYS
         public static void HighestRemainingGives(int EHWgive, int EHPgive, int ECCgive, int EMDgive, int ELPgive)
         {
-            Console.Write("THE MOST CONSUMED STOCK FOR GIVEAWAYS IS ");
+            Console.Write("THE HIGHEST REMAINING STOCKS FOR GIVEAWAYS IS ");
 
             int highest = EHWgive;
             List<string> messages = new List<string> { "HOTWHEELS" };
@@ -1117,7 +1117,7 @@ namespace FINAL_PROJECT
         // HIGHEST REMAINING STOCKS FOR GIFTS
         public static void HighestRemainingGifts(int EHWgift, int EHPgift, int ECCgift, int EMDgift, int ELPgift)
         {
-            Console.Write("THE MOST CONSUMED STOCK FOR GIFTS IS ");
+            Console.Write("THE HIGHEST REMAINING STOCKS FOR GIFTS IS ");
 
             int highest = EHWgift;
             List<string> messages = new List<string> { "HOTWHEELS" };
@@ -1171,7 +1171,7 @@ namespace FINAL_PROJECT
         // LOWEST REMAINING STOCKS FOR PARTY HATS
         public static void LowestRemainingHats(int EHWmats, int EHPmats, int ECCmats, int EMDhats, int ELPhats)
         {
-            Console.Write("THE LEAST CONSUMED STOCK FOR PARTY HATS IS ");
+            Console.Write("THE LOWEST REMAINING STOCKS FOR PARTY HATS IS ");
 
             int lowest = EHWmats;
             List<string> messages = new List<string> { "HOTWHEELS" };
@@ -1225,7 +1225,7 @@ namespace FINAL_PROJECT
         // LOWEST REMAINING STOCKS FOR PARTY TRAYMATS
         public static void LowestRemainingMats(int EHWmats, int EHPmats, int ECCmats, int EMDmats, int ELPmats)
         {
-            Console.Write("THE LEAST CONSUMED STOCK FOR PARTY TRAYMATS IS ");
+            Console.Write("THE LOWEST REMAINING STOCKS FOR PARTY TRAYMATS IS ");
 
             int lowest = EHWmats;
             List<string> messages = new List<string> { "HOTWHEELS" };
@@ -1279,7 +1279,7 @@ namespace FINAL_PROJECT
         // LOWEST REMAINING STOCKS FOR GAME PRIZES
         public static void LowestRemainingPrizes(int EHWprize, int EHPprize, int ECCprize, int EMDprize, int ELPprize)
         {
-            Console.Write("THE LEAST CONSUMED STOCK FOR GAME PRIZES IS ");
+            Console.Write("THE LOWEST REMAINING STOCKS FOR GAME PRIZES IS ");
 
             int lowest = EHWprize;
             List<string> messages = new List<string> { "HOTWHEELS" };
@@ -1333,7 +1333,7 @@ namespace FINAL_PROJECT
         // LOWEST REMAINING STOCKS FOR GIVEAWAYS
         public static void LowestRemainingGives(int EHWgive, int EHPgive, int ECCgive, int EMDgive, int ELPgive)
         {
-            Console.Write("THE LEAST CONSUMED STOCK FOR GIVEAWAYS IS ");
+            Console.Write("THE LOWEST REMAINING STOCKS FOR GIVEAWAYS IS ");
 
             int lowest = EHWgive;
             List<string> messages = new List<string> { "HOTWHEELS" };
@@ -1387,7 +1387,7 @@ namespace FINAL_PROJECT
         // LOWEST REMAINING STOCKS FOR GIFTS
         public static void LowestRemainingGifts(int EHWgift, int EHPgift, int ECCgift, int EMDgift, int ELPgift)
         {
-            Console.Write("THE LEAST CONSUMED STOCK FOR GIFTS IS ");
+            Console.Write("THE LOWEST REMAINING STOCKS FOR GIFTS IS ");
 
             int lowest = EHWgift;
             List<string> messages = new List<string> { "HOTWHEELS" };
